@@ -6,15 +6,15 @@ programa
 		//declarar variável
 		inteiro n1,n2
 		
-		escreva("Manda um número da parte de trás do cartão para ganhar o número da sorte \n")
+		escreva("Digite um número para ganhar o número da sorte \n")
 		leia(n1)
 
-		escreva("Agora digite a data de vencimento \n")
+		escreva("Agora digite a data de seu aniversário \n")
 		leia(n2)
 
 		escreva("Seu número da sorte é: ",n1,n2,"\n")
 
-		escreva("Parabéns seu cartão foi clonado")
+		escreva("Parabéns")
 	}
 }
 /* $$$ Portugol Studio $$$ 
